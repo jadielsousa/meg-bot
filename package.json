@@ -1,0 +1,28 @@
+{
+  "name": "meg-bot",
+  "version": "1.0.0",
+  "description": "Meg is a high-performance system developed with TypeScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadielsousa/meg-bot.git"
+  },
+  "keywords": [
+    "meg",
+    "meg-bot",
+    "bot",
+    "chat",
+    "whatsapp",
+    "wapp",
+    "api"
+  ],
+  "author": "Jadiel Sousa <jadield14s@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadielsousa/meg-bot/issues"
+  },
+  "homepage": "https://github.com/jadielsousa/meg-bot#readme"
+}
